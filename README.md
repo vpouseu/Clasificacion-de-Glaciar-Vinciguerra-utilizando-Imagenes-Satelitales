@@ -73,7 +73,9 @@ https://code.earthengine.google.com/3b5a0312148a08abb1aee7145903e29b
 
 * XGBoost: es un algoritmo de refuerzo que optimiza múltiples árboles de decisión secuencialmente, logrando altos niveles de precisión y eficiencia en la clasificación. 
 
-* Máquinas de Soporte Vectorial (SVM): crea un hiperplano de separación óptimo para clasificar datos en categorías, siendo versátil y efectivo incluso en espacios de alta dimensionalidad. 
+* Máquinas de Soporte Vectorial (SVM): crea un hiperplano de separación óptimo para clasificar datos en categorías, siendo versátil y efectivo incluso en espacios de alta dimensionalidad.
+
+* Redes Neuronales Artificiales (ANN): utiliza una estructura de neuronas interconectadas para aprender y clasificar datos, siendo especialmente poderosas en tareas de clasificación de patrones complejos.
 
 ### AutoML:  TPOT 
 
